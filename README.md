@@ -1,4 +1,3 @@
-# Capstone Project-1 (My Resume)
 # Capstone Project 1 - My Resume
 
 A simple personal resume website built using only HTML. This project was created as part of my web development learning journey to practice HTML fundamentals such as headings, paragraphs, lists, images, links, and page structure.
